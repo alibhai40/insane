@@ -7,22 +7,22 @@ from pyrogram import filters
 load_dotenv()
 
 # Get this value from my.telegram.org/apps
-API_ID = API_ID
-API_HASH = "API_HASH"
+API_ID = 21228632
+API_HASH = "6973dee17a0b7f477886c6cabdc54174"
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = "BOT_TOKEN"
+BOT_TOKEN = "7225567107:AAGXnisspysxNjv6IcIaAj_ZVa0F1qFot88"
 
 # Get your mongo url from cloud.mongodb.com
-MONGO_DB_URI = "MONGO_DB_URI"
+MONGO_DB_URI = "mongodb+srv://xylahacer007:xylahacer007@insane.cjjuw.mongodb.net/?retryWrites=true&w=majority&appName=Insane"
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 60))
 
 # Chat id of a group for logging bot's activities
-LOG_GROUP_ID = LOG_GROUP_ID
+LOG_GROUP_ID = -1002199009517
 
 # Get this value from @ultron2_robot on Telegram by /id
-OWNER_ID = OWNER_ID
+OWNER_ID = 7368528181
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
@@ -39,8 +39,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = "https://t.me/thanos_pro"
-SUPPORT_GROUP = "https://t.me/thanosprosss"
+SUPPORT_CHANNEL = "https://t.me/VP247_Updates"
+SUPPORT_GROUP = "https://t.me/Tamil_VP247"
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -62,7 +62,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 2145386496))
 
 
 # Get your pyrogram v2 session from Replit
-STRING1 = "STRING_SESSION"
+STRING1 = "BQFD7FgAT3Ts9vZT7jCR1pYloJbLw89y04p4TpYpZnRQgCgheuUGP6TEsdCosUhOXc0i6qcxLigj_wp9F7BHV8Z9-5bEkaK64GXVvN_u9yY-8q30Oj3dB76iPIDNjynjEbOasNAzfoHdrW-MR15vlo8EErlay-TdpRk4yfchucJewDOIChTR5hPRScsPSOm-_-cCiTqoYblmOq91WwzUS46qDZxzykOwgAyROmL7MR1ykKX9DUdR_56VbU7rrXGyfdmYeW5JOs2ok2Cu_KXLs9LHcLsHCaKLUGtMnbxPQSbPuzwQ9CwWzwEhuAjhYE8tKcZrrsXBFp-yBNeaMyFnUKcJbWrEZQAAAAG3MtE1AA"
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
@@ -77,9 +77,9 @@ autoclean = []
 confirmer = {}
 
 
-START_IMG_URL = "https://graph.org/file/f586172fe40a0b5d0b0df.jpg"
+START_IMG_URL = "https://envs.sh/bGI.jpg"
 
-PING_IMG_URL = "https://graph.org/file/f586172fe40a0b5d0b0df.jpg"
+PING_IMG_URL = "https://envs.sh/bGI.jpg"
 
 PLAYLIST_IMG_URL = "https://graph.org/file/763a841a2ad5cbb1e2fc5.jpg"
 STATS_IMG_URL = "https://graph.org/file/f586172fe40a0b5d0b0df.jpg"
